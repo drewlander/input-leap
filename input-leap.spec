@@ -7,7 +7,7 @@ Release:	master
 Summary:	Share mouse and keyboard between multiple computers over the network
 
 License:	GPL-2.0-only
-URL:		https://github.com/%{name}/%{name}
+URL:		https://github.com/drewlander/%{name}
 %undefine _disable_source_fetch
 Source:		%{url}/archive/refs/heads/master.zip
 
